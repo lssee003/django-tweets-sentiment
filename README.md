@@ -1,1 +1,1 @@
-"# django-tweets-sentimentanalysis" 
+"# django-tweets-sentiment" 
